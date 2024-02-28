@@ -1,0 +1,11 @@
+# ninja log v5
+3	68	7308455641383446	CMakeFiles/check.dir/main.cpp.obj	d4586e1709f39c9c
+884	1005	7308461995910442	check.exe	9f32aa5f5757b8af
+15	69	7308419831462054	CMakeFiles/check.dir/cell.cpp.obj	a08b3943c245f5a8
+3	884	7308461994720218	CMakeFiles/check.dir/labyrinth.cpp.obj	230b51fd1cd4788a
+8	562	7308461991502256	CMakeFiles/check.dir/game.cpp.obj	4e7f42aceb602ac5
+3	67	7308462861135936	CMakeFiles/check.dir/main.cpp.obj	5a3085dbb7cb1dd2
+13	70	7308462861166421	CMakeFiles/check.dir/cell.cpp.obj	cffc637323d435c4
+17	611	7308462866559161	CMakeFiles/check.dir/game.cpp.obj	ba81f322f3cbd1b1
+8	931	7308462869755737	CMakeFiles/check.dir/labyrinth.cpp.obj	bbc1741d4126de1f
+933	1055	7308462870981178	check.exe	9f32aa5f5757b8af
