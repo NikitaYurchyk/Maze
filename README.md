@@ -14,13 +14,13 @@ The Maze Game is a console-based application developed in C++ that allows users 
    - Open your terminal and navigate to the program's directory.
    - Compile the program using a C++ compiler. For GCC, you can use:
      ```
-     g++ -o MazeGame main.cpp program.cpp maze.cpp -I.
+     g++ -o main main.cpp
      ```
 
 ### Running the Application
 - Execute the game by running the compiled output:
   ```
-  ./MazeGame
+  ./main
   ```
 
 ### How to Use
