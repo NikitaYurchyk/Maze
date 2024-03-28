@@ -3,7 +3,7 @@
 #include <string>
 
 #include "game.h"
-#include "labyrinth.h"
+#include "maze.h"
 
 Game::Game()= default;
 

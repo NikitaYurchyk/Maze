@@ -4,8 +4,8 @@ project(check)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(check main.cpp
-        labyrinth.cpp
-        labyrinth.h
+        maze.cpp
+        maze.h
         cell.cpp
         cell.h
         game.cpp

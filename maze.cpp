@@ -1,4 +1,4 @@
-#include "Labyrinth.h"
+#include "maze.h"
 #include <iostream>
 #include <random>
 #include <algorithm>
